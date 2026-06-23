@@ -1,0 +1,14 @@
+# Data Wrangling & Manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning & NLP Processing
+scikit-learn>=1.2.0
+joblib>=1.3.0
+
+# Interactive Web Application Framework
+streamlit>=1.30.0
+
+# Jupyter Visual Environment (For your .ipynb file)
+matplotlib>=3.7.0
+notebook>=7.0.0
